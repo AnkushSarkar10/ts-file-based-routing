@@ -1,0 +1,19 @@
+{
+    "name": "ts-file-based-routing",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node src/index.ts",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^22.10.7",
+        "fast-glob": "^3.3.3",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.7.3"
+    }
+}
